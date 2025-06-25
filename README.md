@@ -6,9 +6,9 @@ face-attendance-project/
 │   ├── attendance.csv        # Attendance logs (runtime created)
 │   └── utils.py              # Helper functions (face encoding, attendance etc.)
 │
-├── frontend/
+├── templates/
 │   ├── index.html            # Login page
-│   ├── dashboard.html        # Webcam + attendance page
+│   ├── home.html        # Webcam + attendance page
 │   ├── styles.css            # Styling
 │   └── script.js             # Frontend JS for webcam and API calls
 │
